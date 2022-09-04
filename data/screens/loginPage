@@ -1,0 +1,3 @@
+"USERNAME_TXT_FIELD": "//input[@name='username']",
+"PASSWORD_TXT_FIELD": "//input[@name='password']",
+"LOGIN_BTN": "//button[@title='Login']",

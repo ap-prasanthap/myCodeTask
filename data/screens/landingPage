@@ -1,0 +1,3 @@
+"LOGIN_MENU": "//*[@class='login']",
+"SIGNUP_MENU": "//*[@title='Sign up']",
+"PROFILE_MENU": "//*[@class='user-avatar']",
